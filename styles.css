@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+div {
+    line-height: 1.8em;
+    border-style: dotted;
+}
+div {
+    text-align: center;
+}
